@@ -18,18 +18,6 @@ I am Information Tecnology specialist and strategic  business and competitive in
 I've been worked since 1996, with Clipper Summer Language and then Dephi.  
 Nowadays I'm stating working with Web Technology, like HMTL, BootStrap, NodeJs, WCF, C#.Net and so on. 
 
-# Skills
-#
-# I'll use five differents levels:
-# 1 - Studying: You know the basics of the skill and is studying it to get better
-# 2 - Padawan: You know a little more than the basics and is comfortable to work with it
-# 3 - Work with: You know how to handle the skill and how to properly use it in a real project
-# 4 - Specialist: You have advanced knowledge of the skill and know how to use its best practices in a real project
-# 5 - Jedi: You master the skill, know how and when to use and when not use it
-#
-# You can change these names in _includes/_skill-level-name.html if you wish
-#
-# If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
     level: 3
